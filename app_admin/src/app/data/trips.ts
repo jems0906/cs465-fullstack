@@ -1,4 +1,4 @@
-[
+export const trips = [
     {
         "code" : "GALR210214",
         "name" : "Gale Reef",
@@ -27,4 +27,4 @@
         "image" : "reef3.jpg",
         "description" : "<p>Claire's Reef reef Done sed felis risus. Nulla Facilisi"
     }
-]
+];    

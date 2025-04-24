@@ -34,6 +34,6 @@ const travel = async function(req, res, next) {
         .catch(err => res.status(500).send(e.message));
     // console.log('TRAVEL CONTROLLER AFTER RENDER');
 };
-module.export = {
+module.exports = {
     travel
 };
